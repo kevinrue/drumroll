@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/drumroll/__init__.py
+src/drumroll/example.py
+src/drumroll.egg-info/PKG-INFO
+src/drumroll.egg-info/SOURCES.txt
+src/drumroll.egg-info/dependency_links.txt
+src/drumroll.egg-info/top_level.txt
